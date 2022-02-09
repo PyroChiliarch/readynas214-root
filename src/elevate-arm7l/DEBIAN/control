@@ -1,0 +1,7 @@
+Package: elevate-armv7l
+Version: 0.1
+Section: Games and Amusement
+Priority: optional
+Architecture: all
+Maintainer: Pyrochiliarch
+Description: Elevation!
